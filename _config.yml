@@ -12,7 +12,7 @@ footer:
         enable: false
     theme:
         enable: false
-# author: John-Doe
+author: false
 language: zh-CN
 timezone: ''
 url: https://turbo-toby.github.io
